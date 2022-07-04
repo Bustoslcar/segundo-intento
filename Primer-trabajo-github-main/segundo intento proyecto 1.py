@@ -49,11 +49,14 @@ multi= n1*n2*n3*n4
 print("La multiplicacion es: ", multi)
 
 print()
-print ("vamos a hacer una DIVICIÓN DE 2 NUMEROS")
+print ("vamos a hacer una DIVISION DE 2 NUMEROS")
 print("Ingrese el primer número: ")
 n1= float(input())
 print("Ingrese el segundo número: ")
 n2= float(input())
 division= n1 / n2
 print("La division es: ", division)
-3
+
+print()
+print("Finalización de las funciones <3")
+print()
